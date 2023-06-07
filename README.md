@@ -18,7 +18,7 @@
 
 ### Data de Criação do Documento
 
-O documento foi criado no dia DD/06/2023.
+O documento foi criado no dia 06/06/2023.
 
 ## Introdução
 
