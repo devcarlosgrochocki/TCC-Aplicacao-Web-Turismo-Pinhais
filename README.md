@@ -69,7 +69,55 @@ Link do Trello/Jira: [Trello - Turismo Pinhais](https://trello.com/invite/tccpro
 
 ## Conclusão
 
-Recursos que serão utilizados (tecnologias, ferramentas de apoio, linguagem de programação): [Recursos Utilizados](https://docs.google.com/document/d/1hNCuaCOn0jUz47ymncC-Vx-PpDfTVgh1X4DlhKypGDk/edit?usp=sharing)
+Recursos que serão utilizados (tecnologias, ferramentas de apoio, linguagem de programação): 
+
+## Design e Prototipagem:
+
+| Ferramenta | Versão | Localização | Descrição de Uso |
+|---|---|---|---|
+| [Draw.io](https://www.draw.io/) | - | [Site](https://www.draw.io/) | Editor de diagramas online |
+| [Figma](https://www.figma.com/) | - | [Site](https://www.figma.com/) | Ferramenta de design de interface e prototipagem |
+| [MindMeister](https://www.mindmeister.com/) | - | [Site](https://www.mindmeister.com/) | Ferramenta de mapeamento mental e brainstorming |
+
+## Desenvolvimento Web:
+
+| Ferramenta | Versão | Localização | Descrição de Uso |
+|---|---|---|---|
+| [Bootstrap](https://getbootstrap.com/) | - | [Site](https://getbootstrap.com/) | Framework front-end para desenvolvimento rápido e responsivo |
+| [CSS3](https://www.w3.org/Style/CSS/) | - | [Site](https://www.w3.org/Style/CSS/) | Linguagem de estilo para estilização de páginas |
+| [HTML5](https://www.w3.org/html/) | - | [Site](https://www.w3.org/html/) | Linguagem de marcação para estruturação de páginas |
+| [JavaScript](https://www.javascript.com/) | - | [Site](https://www.javascript.com/) | Linguagem de programação para desenvolvimento web |
+| [Node.js](https://nodejs.org/) | 18.16.0 | [Site](https://nodejs.org/) | Ambiente de tempo de execução JavaScript |
+| [NPM](https://www.npmjs.com/) | 9.5.0 | [Site](https://www.npmjs.com/) | Gerenciador de pacotes para o ecossistema Node.js |
+| [React](https://reactjs.org/) | 18.2.0 | [Site](https://reactjs.org/) | Biblioteca JavaScript para construção de interfaces |
+| [SCSS](https://sass-lang.com/) | - | [Site](https://sass-lang.com/) | Pré-processador CSS com recursos avançados |
+| [TypeScript](https://www.typescriptlang.org/) | - | [Site](https://www.typescriptlang.org/) | Linguagem de programação para desenvolvimento web mais robusto |
+| [Vscode](https://code.visualstudio.com/) | 1.78.2 | [Site](https://code.visualstudio.com/) | Editor de código-fonte altamente personalizável |
+
+## Controle de Versão e Colaboração:
+
+| Ferramenta | Versão | Localização | Descrição de Uso |
+|---|---|---|---|
+| [Github](https://github.com/) | - | [Site](https://github.com/) | Plataforma de hospedagem de código e colaboração |
+
+## Banco de Dados:
+
+| Ferramenta | Versão | Localização | Descrição de Uso |
+|---|---|---|---|
+| [MySQL Workbench](https://www.mysql.com/products/workbench/) | 8.0.32 | [Site](https://www.mysql.com/products/workbench/) | Gerenciar Banco de Dados |
+
+## Gerenciamento de Projetos:
+
+| Ferramenta | Versão | Localização | Descrição de Uso |
+|---|---|---|---|
+| [Trello](https://trello.com/) | - | [Site](https://trello.com/) | Ferramenta de gerenciamento de projetos online |
+
+## APIs:
+
+| Ferramenta | Versão | Localização | Descrição de Uso |
+|---|---|---|---|
+| API Geolocation | - | [Documentação](https://developers.google.com/maps/documentation/geolocation/intro) | API que fornece informações de localização geográfica |
+| API Login | - | [Documentação](https://developers.google.com/identity) | API que permite autenticação e login em aplicativos |
 
 Resultados esperados com o projeto desenvolvido:
 A introdução de um aplicativo de turismo local em Pinhais traz consigo diversas contribuições sociais e científicas que merecem destaque. Em primeiro lugar, o aplicativo tem o potencial de impulsionar o turismo na região, estimulando os visitantes a explorarem a cidade e suas atrações turísticas. Essa iniciativa não apenas aumenta a demanda por serviços de hospedagem, alimentação e transporte, mas também gera benefícios econômicos para a cidade como um todo.
