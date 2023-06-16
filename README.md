@@ -49,7 +49,13 @@ Link da Prototipação: [Protótipo Turismo - Pinhais](https://www.figma.com/fil
 
 ## Matriz de Riscos
 
-Incluir na matriz a descrição dos riscos de projeto, técnicos e do negócio. Para cada risco estabelecer o impacto do mesmo para o projeto, a probabilidade de ocorrência e a mitigação para evitá-lo.
+| ID | DESCRIÇÃO DE RISCOS | IMPACTO | PROBABILIDADE | MITIGAÇÃO |
+|---|---|---|---|---|
+| 01 | Atraso do projeto | Reprovação | Médio | - |
+| 02 | Inacessibilidade de utilizar a API do Google Maps | Necessidade de mudar o projeto | Alta | Utilizar uma API com menos funcionalidades |
+| 03 | Falta de dados turísticos locais disponíveis na internet | Falta de informações sobre os pontos | Alta | Verificar com a Prefeitura de PInhais e os próprios estabelecimentos solicitando os dados necessários |
+| 04 | Ausência de reuniões frequentes com a Prefeitura de Pinhais | Incapacidade de absorver críticas e pontos de melhora do órgão mencionado | Médio | - |
+| 05 | Vazamento de dados dos usuários | Segurança da aplicação web fragilizada | Baixo | - |
 
 ## Organização do Projeto
 
