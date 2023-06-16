@@ -77,7 +77,7 @@ Link do Trello/Jira: [Trello - Turismo Pinhais](https://trello.com/invite/tccpro
 
 Recursos que serão utilizados (tecnologias, ferramentas de apoio, linguagem de programação): 
 
-## Design e Prototipagem:
+### Design e Prototipagem:
 
 | Ferramenta | Versão | Localização | Descrição de Uso |
 |---|---|---|---|
@@ -85,7 +85,7 @@ Recursos que serão utilizados (tecnologias, ferramentas de apoio, linguagem de 
 | [Figma](https://www.figma.com/) | - | [Site](https://www.figma.com/) | Ferramenta de design de interface e prototipagem |
 | [MindMeister](https://www.mindmeister.com/) | - | [Site](https://www.mindmeister.com/) | Ferramenta de mapeamento mental e brainstorming |
 
-## Desenvolvimento Web:
+### Desenvolvimento Web:
 
 | Ferramenta | Versão | Localização | Descrição de Uso |
 |---|---|---|---|
@@ -100,25 +100,25 @@ Recursos que serão utilizados (tecnologias, ferramentas de apoio, linguagem de 
 | [TypeScript](https://www.typescriptlang.org/) | - | [Site](https://www.typescriptlang.org/) | Linguagem de programação para desenvolvimento web mais robusto |
 | [Vscode](https://code.visualstudio.com/) | 1.78.2 | [Site](https://code.visualstudio.com/) | Editor de código-fonte altamente personalizável |
 
-## Controle de Versão e Colaboração:
+### Controle de Versão e Colaboração:
 
 | Ferramenta | Versão | Localização | Descrição de Uso |
 |---|---|---|---|
 | [Github](https://github.com/) | - | [Site](https://github.com/) | Plataforma de hospedagem de código e colaboração |
 
-## Banco de Dados:
+### Banco de Dados:
 
 | Ferramenta | Versão | Localização | Descrição de Uso |
 |---|---|---|---|
 | [MySQL Workbench](https://www.mysql.com/products/workbench/) | 8.0.32 | [Site](https://www.mysql.com/products/workbench/) | Gerenciar Banco de Dados |
 
-## Gerenciamento de Projetos:
+### Gerenciamento de Projetos:
 
 | Ferramenta | Versão | Localização | Descrição de Uso |
 |---|---|---|---|
 | [Trello](https://trello.com/) | - | [Site](https://trello.com/) | Ferramenta de gerenciamento de projetos online |
 
-## APIs:
+### APIs:
 
 | Ferramenta | Versão | Localização | Descrição de Uso |
 |---|---|---|---|
