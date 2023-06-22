@@ -124,7 +124,7 @@ Os recursos que serão utilizados (tecnologias, ferramentas de apoio, linguagem 
 
 | Ferramenta | Versão | Localização | Descrição de Uso |
 |---|---|---|---|
-| API Geolocation | - | [Documentação](https://developers.google.com/maps/documentation/geolocation/intro) | API que fornece informações de localização geográfica |
+| API OpenStreetMap | - | [Documentação](https://wiki.openstreetmap.org/wiki/API) | API que fornece informações de localização geográfica |
 | API Login | - | [Documentação](https://developers.google.com/identity) | API que permite autenticação e login em aplicativos |
 
 🎯 Resultados esperados com o projeto desenvolvido:
