@@ -8,7 +8,7 @@
 
 ### 📱 Redes Sociais do Projeto
 
-- Não possui.
+- Em andamento...
 
 ### 👥 Equipe
 
