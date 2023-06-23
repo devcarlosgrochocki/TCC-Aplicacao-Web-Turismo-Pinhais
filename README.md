@@ -15,6 +15,8 @@
 - Allison Henrique Damaceno
 - Carlos Santos Grochocki
 - Rafael Ruppel
+- Profº Dr Cleverton Juliano Alves Vicentini (Orientador)
+- Profª Dra Jeanine Geraldo Javarez (Co-orientadora)
 
 ### 🗓️ Data de Criação do Documento
 
