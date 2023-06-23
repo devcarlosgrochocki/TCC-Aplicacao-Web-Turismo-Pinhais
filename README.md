@@ -53,7 +53,7 @@ Link da Prototipação: [Protótipo Turismo - Pinhais](https://www.figma.com/fil
 
 | ID | DESCRIÇÃO DE RISCOS | IMPACTO | PROBABILIDADE | MITIGAÇÃO |
 |---|---|---|---|---|
-| 01 | Atraso do projeto | Reprovação | Médio | - |
+| 01 | Atraso do projeto | Diminuição do escopo do projeto | Médio | - |
 | 02 | Inacessibilidade de utilizar a API do Google Maps | Necessidade de mudar o projeto | Alta | Utilizar uma API com menos funcionalidades |
 | 03 | Falta de dados turísticos locais disponíveis na internet | Falta de informações sobre os pontos | Alta | Verificar com a Prefeitura de PInhais e os próprios estabelecimentos solicitando os dados necessários |
 | 04 | Ausência de reuniões frequentes com a Prefeitura de Pinhais | Incapacidade de absorver críticas e pontos de melhora do órgão mencionado | Médio | - |
