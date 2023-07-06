@@ -49,7 +49,7 @@ Descrição do produto (MVP) do projeto - O produto MVP do projeto consiste em u
 
 ## ✅ Critérios de aceitação do produto
 
-Link da Prototipação: [Protótipo Turismo - Pinhais](https://www.figma.com/file/t9y0EJEeSNjJlp2D3G8iIb/Prot%C3%B3tipo-Turismo---Pinhais?type=design&t=8ivZSOJV4tJ8AUfR-1)
+Link da Prototipação: [Protótipo Turismo - Pinhais](https://www.figma.com/file/ygqiZozbS2UCSnoKkG2lq7/Turismo---Pinhais?type=design&node-id=0%3A1&mode=design&t=m8qQ394RG4S68I8T-1)
 
 ## ⚠️ Matriz de Riscos
 
