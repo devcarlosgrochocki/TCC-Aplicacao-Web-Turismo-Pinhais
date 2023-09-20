@@ -77,6 +77,8 @@ Para mais detalhes das funções, consulte o documento do Trello.
 
 Link do Trello/Jira: [Trello - Turismo Pinhais](https://trello.com/invite/tccprojetodositedeturismoparapinhais/ATTI95cd3cb0faec44318bdff19c813fc55dDBB34F7D)
 
+Link para planilha de produtividade: [Planilha - Pinhais Explorer](https://docs.google.com/spreadsheets/d/1Ho1k5c7WXtSWN3XgnRNGTZYVv48hzx-8FsXbf9OvPQM/edit?usp=sharing).
+
 ## 🎉 Conclusão
 
 Os recursos que serão utilizados (tecnologias, ferramentas de apoio, linguagem de programação) estão listados abaixo:
