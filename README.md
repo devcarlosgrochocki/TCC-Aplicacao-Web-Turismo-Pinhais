@@ -6,10 +6,6 @@
 
 ![Logo do Projeto](https://d1fdloi71mui9q.cloudfront.net/j77mqFK1TWqOpIdT4cIn_eMVBy9GAHuHSf4Kh)
 
-### 📱 Redes Sociais do Projeto
-
-- Em andamento...
-
 ### 👥 Equipe
 
 - Allison Henrique Damaceno
@@ -34,7 +30,7 @@ Descrição do produto (MVP) do projeto - O produto MVP do projeto consiste em u
 
 | Semana | Entrega |
 | --- | --- |
-| Semana 01 Agosto | Produto MVP, função de Login e Cadastro e banco de dados dos pontos |
+| Semana 01 Agosto | Função de Login e Cadastro, Frontend completo e banco de dados dos pontos |
 | Semana 01 Setembro | Função de Pesquisa e de Geolocalização funcionais |
 | Semana 01 Outubro | Função de comentário funcional |
 | Semana 01 Novembro | Função de exibição de notícias e eventos funcional |
@@ -128,7 +124,7 @@ Os recursos que serão utilizados (tecnologias, ferramentas de apoio, linguagem 
 
 | Ferramenta | Versão | Localização | Descrição de Uso |
 |---|---|---|---|
-| API OpenStreetMap | - | [Documentação](https://wiki.openstreetmap.org/wiki/API) | API que fornece informações de localização geográfica |
+| API Geolocalização Google | - | [Documentação](https://developers.google.com/maps/documentation/geolocation/overview?hl=pt_BR) | API que fornece informações de localização geográfica |
 | API Login | - | [Documentação](https://developers.google.com/identity) | API que permite autenticação e login em aplicativos |
 
 🎯 Resultados esperados com o projeto desenvolvido:
