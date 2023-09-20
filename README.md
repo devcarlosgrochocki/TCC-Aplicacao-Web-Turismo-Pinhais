@@ -77,7 +77,7 @@ Para mais detalhes das funções, consulte o documento do Trello.
 
 Link do Trello/Jira: [Trello - Turismo Pinhais](https://trello.com/invite/tccprojetodositedeturismoparapinhais/ATTI95cd3cb0faec44318bdff19c813fc55dDBB34F7D)
 
-Link para planilha de produtividade: [Planilha - Pinhais Explorer](https://docs.google.com/spreadsheets/d/1Ho1k5c7WXtSWN3XgnRNGTZYVv48hzx-8FsXbf9OvPQM/edit?usp=sharing).
+Link para planilha de produtividade: [Planilha - Pinhais Explorer](https://docs.google.com/spreadsheets/d/1Ho1k5c7WXtSWN3XgnRNGTZYVv48hzx-8FsXbf9OvPQM/edit?usp=sharing)
 
 ## 🎉 Conclusão
 
@@ -116,7 +116,7 @@ Os recursos que serão utilizados (tecnologias, ferramentas de apoio, linguagem 
 
 | Ferramenta | Versão | Localização | Descrição de Uso |
 |---|---|---|---|
-| [MySQL Workbench](https://www.mysql.com/products/workbench/) | 8.0.32 | [Site](https://www.mysql.com/products/workbench/) | Gerenciador de Banco de Dados |
+| [Mongo DB](https://www.mongodb.com/cloud/atlas/lp/try4/) | - | [Site](https://www.mongodb.com/cloud/atlas/lp/try4/) | Gerenciador de Banco de Dados |
 
 ### 📋 Gerenciamento de Projetos:
 
